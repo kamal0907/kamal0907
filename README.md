@@ -1,16 +1,225 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kamal0907/kamal0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Kamal+Saini+%F0%9F%91%8B;Associate+Backend+Developer;Node.js+%7C+NestJS+%7C+AWS+%7C+Firebase)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Visitor badge -->
+<img src="https://komarev.com/ghpvc/?username=kamal0907&label=Profile+views&color=534AB7&style=flat" alt="Profile views" />
+
+<br/><br/>
+
+<!-- Social badges -->
+<a href="https://linkedin.com/in/kamal-saini-a93209235" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/kamal0907" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/kamalsaini2673/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/kamalsaijiyh/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/kamal0907" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="mailto:kamalsaini2673@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About me
+
+```yaml
+name       : Kamal Saini
+role       : Associate Backend Developer @ Meridian Solutions Pvt. Ltd.
+location   : Gurugram, Haryana, India
+education  : B.Tech CS (AIML) — Dronacharya College of Engineering (CGPA: 8.0)
+email      : kamalsaini2673@gmail.com
+```
+
+- 🔭 Currently building **Meridian Marketplace** — Microsoft Partner Center license & subscription management platform
+- 🌱 Currently learning **System Design, Microservices & Generative AI**
+- 💡 Passionate about **scalable APIs, intelligent backends & real-time systems**
+- ☁️ **AWS Certified AI Practitioner** (Sept 2025 – Sept 2028)
+- 💬 Ask me about **Node.js · NestJS · REST APIs · PostgreSQL · AWS · Firebase · Docker**
+- 🤝 Open to **collaborations, freelance projects & exciting opportunities**
+- ⚡ Fun fact: I love combining **backend engineering with ML & NLP** to build smarter systems!
+
+---
+
+## 🛠️ Tech stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🔐 BaaS & Integrations
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio_OTP-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Cashfree](https://img.shields.io/badge/Cashfree-00B8D9?style=for-the-badge&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-2C3E50?style=for-the-badge&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-1ABC9C?style=for-the-badge&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+<div align="center">
+
+| 🏷️ Project | 📝 Description | 🔧 Stack |
+|:-----------|:--------------|:---------|
+| [🎓 **EduLearn.AI**](https://github.com/kamal0907) | AI-powered e-learning app with personalised quizzes, progress tracking, payments & push notifications | Node.js · Express · MongoDB · Firebase · JWT · Multer |
+| [🛒 **Meridian Marketplace**](https://github.com/kamal0907) | Microsoft Partner License Marketplace — license provisioning, subscription & order management | NestJS · Prisma · PostgreSQL · AWS S3 · Razorpay · Docker |
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kamal0907&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamal0907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal0907&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=kamal0907&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamal0907&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 Competitive programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/kamalsaini2673/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/kamalsaijiyh/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/kamal0907" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| 🏷️ Certificate | 🏢 Issuer | 📅 Valid |
+|:--------------|:---------|:--------|
+| ☁️ [AWS Certified AI Practitioner](https://github.com/kamal0907) | Amazon Web Services | Sept 2025 – Sept 2028 |
+| 📦 Advanced Node.js | Udemy | — |
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kamal-saini-a93209235" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/kamalsaini2673/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/kamalsaijiyh/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/kamal0907" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/kamal0907" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kamalsaini2673@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Snake contribution animation — enable by setting up the GitHub Action below -->
+<!-- <img src="https://github.com/kamal0907/kamal0907/blob/output/github-contribution-grid-snake-dark.svg" /> -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=white&animation=fadeIn" />
+
+</div>
