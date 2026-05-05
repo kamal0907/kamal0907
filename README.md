@@ -119,20 +119,32 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kamal0907&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+### 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=kamal0907&theme=tokyonight&column=8&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+
+<br/>
+
+### 📈 Stats & Languages
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=kamal0907&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kamal0907&theme=tokyonight&hide_border=false&border_radius=10&layout=donut&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🔥 Streak
+<img src="https://streak-stats.demolab.com?user=kamal0907&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=kamal0907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kamal0907&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=kamal0907&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamal0907&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+### 📉 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamal0907&theme=tokyo-night&hide_border=true&area=true&area_color=534AB7&line=534AB7&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
